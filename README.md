@@ -18,7 +18,7 @@ http://dlib.net/train_shape_predictor.py.html
 
 # Results
 ![Result 1](https://github.com/BIG-CHENG/fl68/blob/master/fl_20180805.eye_6.png)
-![Result 1](https://github.com/BIG-CHENG/fl68/blob/master/fl_20180805.eye_0.png)
+![Result 2](https://github.com/BIG-CHENG/fl68/blob/master/fl_20180805.eye_9.png)
 
 
 # License
